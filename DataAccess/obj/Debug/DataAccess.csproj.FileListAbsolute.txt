@@ -1,0 +1,10 @@
+C:\Users\hoang\Desktop\Current_Languages\c#\DataAccess\DataAccess\bin\Debug\DataAccess.exe.config
+C:\Users\hoang\Desktop\Current_Languages\c#\DataAccess\DataAccess\bin\Debug\DataAccess.exe
+C:\Users\hoang\Desktop\Current_Languages\c#\DataAccess\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\hoang\Desktop\Current_Languages\c#\DataAccess\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\hoang\Desktop\Current_Languages\c#\DataAccess\DataAccess\obj\Debug\DataAccess.Form1.resources
+C:\Users\hoang\Desktop\Current_Languages\c#\DataAccess\DataAccess\obj\Debug\DataAccess.Properties.Resources.resources
+C:\Users\hoang\Desktop\Current_Languages\c#\DataAccess\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
+C:\Users\hoang\Desktop\Current_Languages\c#\DataAccess\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Desktop\Current_Languages\c#\DataAccess\DataAccess\obj\Debug\DataAccess.exe
+C:\Users\hoang\Desktop\Current_Languages\c#\DataAccess\DataAccess\obj\Debug\DataAccess.pdb
